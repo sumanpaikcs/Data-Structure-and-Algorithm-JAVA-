@@ -1,3 +1,4 @@
+package MATHfunction;
 
 
 public class javaMATH {
