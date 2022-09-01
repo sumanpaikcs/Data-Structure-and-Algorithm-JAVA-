@@ -1,4 +1,4 @@
-package Basic;
+package BasicJAVA;
 public class variables {
     public static void main(String[] args) {
         
